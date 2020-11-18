@@ -48,5 +48,5 @@ void TitleClr()
     cout << "copyright(C)";
     TextColor(0xF0);
     Gotoxy(5,40);
-    cout << "2018-2019";
+    cout << "2018-2020";
 }
