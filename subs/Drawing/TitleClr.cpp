@@ -32,7 +32,7 @@ void TitleClr()
     cout << "R";
     TextColor(0xFC);
     Gotoxy(9,10);
-    cout << "6";
+    cout << "1.0";
 
     TextColor(0xF0);
     Gotoxy(4,32);
